@@ -1,4 +1,6 @@
 # idea
+
+![idea](http://i.imgur.com/Vsg8WKc.jpg "idea logo")
 ideaは会話支援プログラムです<br>
 <br>
 ideaは期限切れSkypeAPIによって、IMの受信するとmsg.Bodyを分析します。<br>
